@@ -1,5 +1,5 @@
 
 # 👋 Hi, I'm CuddlesMeows
-- 📫 Discord: [ivls](794824902728351745)
+- 📫 Discord: ivls
 I'm a  self-taught developer.
 
